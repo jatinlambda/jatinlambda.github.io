@@ -9575,7 +9575,7 @@ html {
 
 * {
   box-sizing: border-box;
-  justify-items: center;
+  /*justify-items: center;*/
   align-items: center; }
 
 .clear {
@@ -10478,7 +10478,7 @@ h4.sub-title {
   .w3l-main-banner .banner-top-inner-page {
     min-height: 150px; } }
 
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
   .w3l-main-banner h3.gallery4-head {
     margin-bottom: 20px; }
   .w3l-main-banner .banner-view {
@@ -10494,7 +10494,7 @@ h4.sub-title {
   .w3l-main-banner .banner-view {
     min-height: 420px; }
   .w3l-main-banner .banner-top-inner-page {
-    min-height: 120px; } }
+    min-height: 120px; } }*/
 
 @media (max-width: 440px) {
   .w3l-main-banner h3.banner-text {
